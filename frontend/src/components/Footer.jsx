@@ -86,7 +86,7 @@ const Footer = () => {
                                     <FaMapMarkerAlt className={footerStyles.contactIcon} />
                                 </div>
                                 <div>
-                                    <p>k.l goswami sarani serampore ,kolkata-712248</p>
+                                    <p>Rishra , kolkata - 712248</p>
                                 </div>
                             </li>
 
@@ -164,10 +164,10 @@ const Footer = () => {
 
                         <span className={footerStyles.attributionText}>
                             Designed By{' '}
-                            <a href="https://sanjeevray-portfolio.verce"
+                            <a href="https://sanjeevray-portfolio.vercel.app/"
                                 target='_blank'
                                 className={footerStyles.attributionLink}>
-                                Sanjeev Technolozia
+                                Sanjeev technologia
                             </a>
                         </span>
                     </div>
