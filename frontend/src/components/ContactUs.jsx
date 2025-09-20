@@ -13,7 +13,7 @@ const ContactUs = () => {
     });
     const [showToast, setShowToast] = useState(false);
 
-    const whatsappNumber = '8299431275'
+    const whatsappNumber = '7278449164'
 
     const handleChange = (e) => {
         const { name, value } = e.target;
