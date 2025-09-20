@@ -138,7 +138,7 @@ const Footer = () => {
                 <div className={footerStyles.paymentSection}>
                     <h4 className={footerStyles.paymentTitle}>
                         <FiBookmark className={footerStyles.paymentIcon} /> We Accept All Major
-                        Payment Menthod
+                        Payment Method
                     </h4>
 
                     <div className={footerStyles.paymentMethods}>
